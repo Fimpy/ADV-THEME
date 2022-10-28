@@ -1,5 +1,5 @@
 # ADV-Theme
-ADV theme es un tema "fusión de los temas Fluent y SoftX creados por Gibbu- con unas modificaicones hechas por Fimpyy
+ADV theme es un tema fusión de los temas Fluent y SoftX creados por Gibbu- con unas modificaicones hechas por Fimpyy
 
 # VISTA PREVIA DEL TEMA
 
